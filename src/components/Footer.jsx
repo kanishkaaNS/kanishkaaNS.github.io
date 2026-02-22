@@ -1,7 +1,7 @@
 function Footer(){
     return(
         <footer className="site-footer">
-            <p>© 2026 Kanishka N S. Built with React & Vite.</p>
+            <p>© 2026 Kanishkaa N S. Built with React & Vite.</p>
         </footer>
     );
 }
