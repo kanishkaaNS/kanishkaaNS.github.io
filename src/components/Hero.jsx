@@ -10,7 +10,7 @@ function Hero() {
 
       {/* Content layer */}
       <header className="hero-content">
-          <h3 className='hero-intro'>Hello There, I'm</h3>
+          <h3 className='hero-intro'>Hello There, I'm</h3><br />
 
           <h1 className="hero-name">
             <DecryptedText
@@ -28,7 +28,7 @@ function Hero() {
         </p>
 
         <p className="hero-tagline">
-          Building clean, responsive, and interactive web experiences.
+          Building responsive web apps with clean design <br />and real-world functionality.
         </p>
       </header>
 

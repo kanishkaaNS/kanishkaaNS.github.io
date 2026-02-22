@@ -1,6 +1,6 @@
 function Resume(){
     return(
-        <section id="resume" className="resume">
+        <section id="resume" className="resume reveal">
             <div className="resume-container">
                 <h2>Resume</h2>
                 <p>

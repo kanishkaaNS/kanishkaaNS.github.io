@@ -13,7 +13,7 @@ function About() {
         </p>
 
         <p className="about-text">
-          I’m constantly tweaking, refining, and improving my work because I believe good websites aren’t just built once, they’re shaped over time. 
+          I’m constantly tweaking, refining, and improving my work because <b>I believe good websites aren’t just built once, they’re shaped over time.</b> 
           My goal is to create interfaces that look good, feel natural, and actually make sense to use.
         </p>
       </div>

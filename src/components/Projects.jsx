@@ -1,13 +1,13 @@
 function Projects() {
   return (
     <section className="projects" id="projects">
-      <header className="projects-header">
+      <header className="projects-header reveal">
         <h2>Projects</h2>
       </header>
 
       <div className="projects-grid">
         {/* Featured Project */}
-        <article className="project-card project-featured project-reveal">
+        <article className="project-card project-featured reveal">
           <span className="project-badge">Featured</span>
 
           <h3>Coorg Emporium Spices</h3>
@@ -45,7 +45,7 @@ function Projects() {
         </article>
 
         {/* Project 2 */}
-        <article className="project-card project-reveal">
+        <article className="project-card reveal">
           <h3>Little Lemon Restaurant</h3>
 
           <p className="project-description">
@@ -74,7 +74,7 @@ function Projects() {
         </article>
 
         {/* Project 3 */}
-        <article className="project-card project-reveal">
+        <article className="project-card reveal">
           <h3>Weather App</h3>
 
           <p className="project-description">
