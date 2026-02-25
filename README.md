@@ -27,6 +27,6 @@ A modern React-based portfolio website showcasing my frontend projects, technica
 <img width="1919" height="977" alt="portfolio-contact" src="https://github.com/user-attachments/assets/e6c053ec-b7d0-457a-85c4-aad99a95de3c" />
 
 ### Mobile View
-![homepage-portfolio](https://github.com/user-attachments/assets/74e7aeb9-6e1d-422f-8a09-6a735dbee398)
+<img src="https://github.com/user-attachments/assets/74e7aeb9-6e1d-422f-8a09-6a735dbee398" width="800">
 
 
